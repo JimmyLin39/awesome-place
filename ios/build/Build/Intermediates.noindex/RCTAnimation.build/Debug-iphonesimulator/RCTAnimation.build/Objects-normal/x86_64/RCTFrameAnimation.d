@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.m \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTFrameAnimation.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/Drivers/RCTAnimationDriver.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/RCTAnimationUtils.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTValueAnimatedNode.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/Libraries/NativeAnimation/Nodes/RCTAnimatedNode.h

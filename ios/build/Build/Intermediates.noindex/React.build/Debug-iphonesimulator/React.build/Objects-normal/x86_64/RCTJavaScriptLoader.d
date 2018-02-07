@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/cxxreact/JSBundleType.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JavaScriptCore.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/jschelpers/JSCWrapper.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/Jimmy/udemy/react-native-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/Jimmy/udemy/react-native-course/node_modules/react-native/React/Base/RCTPerformanceLogger.h
